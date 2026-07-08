@@ -1,51 +1,52 @@
 # Behavioral Profile
 
-<!-- SETUP: Skipped by the candidate during /setup - no self-assessment provided. -->
-<!-- Re-run `/setup --section behavioral` (or ask the user directly) if this becomes useful later. -->
-<!-- You can use results from PI, DISC, Myers-Briggs, StrengthsFinder, or a self-assessment -->
+<!-- Source: candidate's own written self-assessment, provided directly (not a formal PI/DISC/Myers-Briggs instrument). -->
 
 ## Overview
-[YOUR_NAME]'s behavioral assessment identifies them as a **[PROFILE_TYPE]** pattern. [1-2 SENTENCE_SUMMARY].
+Daniel Salazar's self-assessment identifies him as an **Analytical Investigator** pattern: curious, detail-driven, and independent, with a strong pull toward understanding the "why" behind systems rather than memorizing surface facts.
 
 ## Core Behavioral Drives
 
 | Drive | Level | Meaning |
 |-------|-------|---------|
-| [DRIVE_1] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_2] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_3] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_4] | [LEVEL] | [DESCRIPTION] |
+| Curiosity / depth-seeking | High | Consistently digs past surface answers; asks progressively more detailed questions until he has a complete picture |
+| Precision / accuracy | High | Clarifies wording, verifies facts, corrects misunderstandings; prefers logically consistent, well-supported information |
+| Independence | High | Researches extensively before deciding rather than relying on others' recommendations |
+| Adaptability | High | Moves comfortably between retail, event coordination, investigative fieldwork, and new technical topics without discouragement |
 
 ## Strongest Behaviors
-- **[BEHAVIOR_1]:** [DESCRIPTION]
-- **[BEHAVIOR_2]:** [DESCRIPTION]
-- **[BEHAVIOR_3]:** [DESCRIPTION]
+- **Systems thinking:** Looks for patterns and anticipates problems rather than just completing the immediate task, reinforced by investigative fieldwork (surveillance, case reporting) that required staying objective while gathering information
+- **Learns by doing:** Builds competence through direct experience across varied roles (customer service, event coordination, investigation) rather than passive study
+- **Functional creativity:** Combines usefulness with intentional design/aesthetics - notices when something is both functional and well-presented
 
 ## How You Work Best
-- [ENVIRONMENT_PREFERENCE_1]
-- [ENVIRONMENT_PREFERENCE_2]
-- [ENVIRONMENT_PREFERENCE_3]
+- Environments that reward observation, attention to detail, and follow-through rather than rote repetition
+- Roles with room to understand the full system/process, not just an isolated task
+- Work involving accuracy and verification (matches this posting's insurance/demographic data entry and billing-accuracy duties)
+- Some autonomy to research and reach an informed answer rather than being told exactly what to do at every step
 
 ## Growth Areas (frame positively in applications)
-- **[AREA_1]:** [HOW_TO_FRAME_IT_POSITIVELY]
-- **[AREA_2]:** [HOW_TO_FRAME_IT_POSITIVELY]
+- **Patience with uncertainty:** Prefers to fully understand a situation before acting; in interviews, frame this as thoroughness that reduces downstream errors, while noting willingness to act and adjust when a situation requires it
+- **Balancing thoroughness with efficiency:** Can spend extra time gathering information before feeling ready to decide; frame as a deliberate quality-over-speed default that adapts once he recognizes a decision needs to move faster
 
 ## Mapping to Job Posting Language
 
-When a job posting mentions these keywords, it's a **strong behavioral fit**:
-- [KEYWORD_OR_PHRASE_THAT_MATCHES_YOUR_STYLE]
-- [ANOTHER_KEYWORD]
+When a job posting mentions these, it's a **strong behavioral fit**:
+- Attention to detail, accuracy, verification, data integrity
+- Problem-solving, observation, working independently
+- Communication, adaptability, bilingual service
 
 When a job posting mentions these, flag as **potential friction** (not deal-breaker):
-- [KEYWORD_OR_PHRASE_THAT_MIGHT_CLASH]
-- [ANOTHER_KEYWORD]
+- High-volume, fast-decision environments with no room for verification
+- Strict rigid script-following with no room to understand the "why"
 
 ## Management Style Preferences
-- [WHAT_MANAGEMENT_STYLE_WORKS_FOR_YOU]
-- [WHAT_DOESN'T_WORK]
+- Works well with managers who explain the reasoning behind processes, not just the steps
+- Prefers autonomy to figure things out once he understands the goal
+- Less well-suited to constant close oversight with no context given
 
 ## Using This in Applications
-- **Cover letters:** [HOW_TO_WEAVE_IN_BEHAVIORAL_STRENGTHS]
-- **CV:** [WHAT_TO_EMPHASIZE]
-- **Interviews:** [WHAT_STAR_EXAMPLES_TO_USE]
-- **Don't overstate:** [WHAT_NOT_TO_CLAIM]
+- **Cover letters:** Lead with the pairing of attention-to-detail (from investigative work) and adaptability (from moving across customer service, events, and fieldwork) rather than generic "hard worker" framing
+- **CV:** Emphasize accuracy/verification-related bullets (transaction handling, case documentation, pricing verification) since these are his most evidenced strengths
+- **Interviews:** Use the Private Investigator case-documentation experience as the go-to STAR example for questions about attention to detail or objectivity; use the range of roles (retail/events/investigation) for adaptability questions
+- **Don't overstate:** He has not held a formal analytical/research job title - frame curiosity and analytical habits as personal traits evidenced by behavior, not as a job function he's formally performed
