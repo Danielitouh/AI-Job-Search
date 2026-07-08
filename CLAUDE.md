@@ -1,10 +1,10 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for Daniel Salazar
 
 <!-- SETUP: This file is populated by running /setup -->
 <!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Daniel Salazar, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -16,42 +16,51 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
+- **Name:** Daniel Salazar
 - **Location:** Boston, MA, United States ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
+- **Languages:** English (Fluent), Spanish (Fluent)
+- **Status:** Currently employed (employer/status kept private per candidate preference); open to additional or new entry-level opportunities.
 - **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
 
 ### Education
 <!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **Coursework toward BA in Law & Society** (2024-2025, not currently enrolled) - John Jay College of Criminal Justice
+- **High School Diploma** (2024) - Academy For Software Engineering
 
 ### Professional Experience
 <!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Store Associate** (Apr 2026 - Current) - **CVS Health** (Boston, MA)
+  - Delivered attentive customer service by anticipating needs and resolving issues promptly
+  - Processed cash, credit, and check transactions accurately while following loss prevention policies
+  - Restocked shelves, verified pricing, and coordinated with vendors to ensure full product availability
+- **Field Investigator** (Jul 2025 - Aug 2025) - **Friends & Family Home Care Services** (New York, NY)
+  - Assisted a licensed Private Investigator in executing surveillance operations and authoring detailed case reports
+  - Performed covert field observations, documenting findings through photography and video
+  - Developed investigative strategies with team members, contributing to successful case resolutions
+- **Intern** (Jul 2024 - Aug 2024) - **Pelham Fritz Recreation Center** (New York, NY)
+  - Served as the primary front desk contact, managing guest check-ins and ensuring a welcoming experience
+  - Coordinated community special events, overseeing logistics from setup to breakdown
+  - Delivered high-quality customer service while managing multiple responsibilities simultaneously
+- **Intern** (Jan 2024 - Apr 2024) - **NYC Department for the Aging** (New York, NY)
+  - Helped coordinate and execute events, managing all aspects from planning to implementation
+  - Produced impactful event photography, capturing unique atmospheres and increasing audience engagement
+  - Collaborated with graphic designers to create effective ad campaigns, enhancing event promotion
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Customer service, cash/credit/check transaction handling, event coordination and logistics
+- **Secondary:** Field investigation/surveillance documentation, case report writing, event photography, data entry
+- **Domain:** Law & Society coursework (John Jay College, 2024-2025), retail operations, private-investigation fieldwork
+- **Software:** POS/transaction systems, general computer literacy
 
 ### Certifications
 <!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **HSR for Undergraduate Students - Basic/Refresher** (CITI Program) - completed Oct 2024 (expires Oct 2027)
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+<!-- None -->
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+<!-- None on file yet -->
 
 ### Behavioral Profile
 <!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
