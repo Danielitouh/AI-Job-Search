@@ -17,7 +17,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ### Identity
 - **Name:** Daniel Salazar
-- **Location:** Boston, MA, United States ([YOUR_COMMUTE_CONSTRAINTS])
+- **Location:** Boston, MA, United States (02135 - Brighton; open to remote/hybrid, prefers a short local commute for onsite work)
 - **Languages:** English (Fluent), Spanish (Fluent)
 - **Status:** Currently employed (employer/status kept private per candidate preference); open to additional or new entry-level opportunities.
 - **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"

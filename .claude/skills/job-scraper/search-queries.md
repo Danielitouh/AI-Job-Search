@@ -1,7 +1,6 @@
 # Search Queries for Job Scraper
 
-<!-- SETUP: Customize these queries based on your skills, target roles, and location -->
-<!-- Market: Boston, MA, United States -->
+<!-- Market: Boston, MA, United States (candidate based in 02135) -->
 
 ## Search Sites
 
@@ -10,66 +9,59 @@ Primary (US job market):
 - **indeed.com** - largest US job board
 - **glassdoor.com** - job board + company reviews
 - **ziprecruiter.com** - US job board
-- **builtinboston.com** - Boston-area tech job board (Built In Boston)
 
 Secondary (company career pages via Google):
 - Direct Google searches with `site:` filters for known target companies
 
 ## Query Categories
 
-Queries are grouped by priority. Each query should be combined with your location terms
-(e.g. "Boston", "Boston, MA", "Greater Boston", "Massachusetts") where the site supports it.
-Include "Remote" variants where relevant since many Boston-area roles offer hybrid/remote.
+Queries are grouped by priority. Each query should be combined with location terms
+(e.g. "Boston", "Boston, MA", "Greater Boston", "Massachusetts", "Remote") where the
+site supports it. Candidate is open to remote and hybrid roles.
 
-### Priority 1: [YOUR_PRIMARY_ROLE_TYPE]
+### Priority 1: Customer Service & Administrative
 
-These match your strongest and most desired career direction.
-
-```
-site:linkedin.com/jobs "[YOUR_PRIMARY_JOB_TITLE]" "Boston, MA"
-site:indeed.com "[YOUR_PRIMARY_JOB_TITLE]" Boston
-site:linkedin.com/jobs "[YOUR_KEY_SKILL]" "Greater Boston"
-```
-
-### Priority 2: [YOUR_DOMAIN_EXPERTISE]
-
-These match your domain expertise.
+Strongest match: direct experience in customer-facing retail (CVS Health) and
+front-desk/admin coordination (Pelham Fritz Recreation Center internship).
 
 ```
-site:indeed.com [YOUR_DOMAIN_KEYWORD_1] Boston OR Cambridge OR Somerville
-site:linkedin.com/jobs [YOUR_DOMAIN_KEYWORD_2] "Massachusetts"
-site:builtinboston.com [YOUR_DOMAIN_KEYWORD_1]
+site:linkedin.com/jobs "Customer Service Representative" "Boston, MA"
+site:indeed.com "Customer Service Representative" Boston
+site:linkedin.com/jobs "Administrative Assistant" "Greater Boston"
+site:indeed.com "Administrative Assistant" Boston OR Remote
 ```
 
-### Priority 3: [YOUR_ADJACENT_ROLE_TYPE]
+### Priority 2: Legal / Investigative Support
 
-Adjacent roles you could pivot into.
-
-```
-site:linkedin.com/jobs "[YOUR_ADJACENT_TITLE_1]" [YOUR_KEY_SKILL] Boston
-site:indeed.com "[YOUR_ADJACENT_TITLE_2]" [YOUR_KEY_SKILL] Boston
-```
-
-### Priority 4: Broader Technical / Consulting
-
-Wider net for general technical roles.
+Matches Law & Society coursework at John Jay College plus hands-on Field Investigator
+experience (surveillance documentation, case report writing).
 
 ```
-site:indeed.com [YOUR_KEY_SKILL] developer Boston
-site:linkedin.com/jobs "[YOUR_KEY_SKILL] developer" "Boston, MA"
-site:glassdoor.com "technical consultant" [YOUR_DOMAIN] Boston
+site:indeed.com "Legal Assistant" Boston OR Cambridge
+site:linkedin.com/jobs "Legal Intern" "Massachusetts"
+site:indeed.com "Investigative Assistant" OR "Research Assistant" Boston
+site:linkedin.com/jobs "Case Assistant" Boston
+```
+
+### Priority 3: Adjacent Entry-Level Roles
+
+Broader net drawing on event-coordination and general office experience.
+
+```
+site:linkedin.com/jobs "Front Desk" OR "Office Assistant" Boston
+site:indeed.com "Client Services" OR "Client Coordinator" Boston
+site:glassdoor.com "entry level" administrative OR "customer service" Boston
 ```
 
 ## Location Filter
 
-When evaluating results, verify the job location is within reasonable commute distance
-from your home, or is remote/hybrid with acceptable onsite frequency. Define acceptable areas:
-- Boston, MA and surrounding areas
-- Cambridge, MA
-- Somerville, MA
-- [ADDITIONAL_ACCEPTABLE_AREA] (e.g. Waltham, Burlington - Rt 128 corridor)
-- Remote (US) - [ACCEPTABLE if role is fully remote]
-- Outside Massachusetts / requires relocation - too far unless remote
+Candidate is based in **02135 (Brighton, Boston)**. Not looking for a long commute -
+strongly prefers roles in Boston proper or nearby, or fully remote/hybrid.
+
+- Boston, MA and immediate surrounding neighborhoods (Brighton, Allston, Brookline, Cambridge) - PASS
+- Remote (US) - PASS
+- Hybrid with Boston-area office - PASS
+- Anywhere requiring a long commute or relocation outside Greater Boston - FAIL unless remote
 
 ## Date Filter
 
@@ -84,10 +76,11 @@ search - leave them installed (they don't hurt anything) but they won't surface 
 results here. Use `.agents/skills/linkedin-search` instead, which is location-agnostic:
 
 ```
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "<title/keyword>" -l "Boston, Massachusetts, United States" --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "customer service representative" -l "Boston, Massachusetts, United States" --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "legal assistant" -l "Remote" --jobage 14 --format table
 ```
 
-If you want a purpose-built local-market scraper (e.g. for Built In Boston or a niche
+If you want a purpose-built local-market scraper (e.g. for a niche legal or admin job
 board), run `/add-portal` and point it at the board's URL.
 
 ## Adapting Queries

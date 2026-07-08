@@ -12,7 +12,7 @@
 - **GitHub:** (none)
 - **Languages:** English (Fluent), Spanish (Fluent)
 - **Status:** Currently employed (details kept private per candidate preference - do not name the current employer's employment status in generated CVs/cover letters beyond the standard experience entry); open to additional or new entry-level opportunities.
-- **Constraints:** [YOUR_COMMUTE_OR_LOCATION_CONSTRAINTS] <!-- ask: how far will you commute in the Boston area? open to remote/hybrid? -->
+- **Constraints:** Based in 02135 (Brighton, Boston); open to remote and hybrid; prefers a short local commute for onsite work
 
 ## Education
 

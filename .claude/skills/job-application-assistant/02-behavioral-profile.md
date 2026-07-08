@@ -1,6 +1,7 @@
 # Behavioral Profile
 
-<!-- SETUP: This file is populated by running /setup -->
+<!-- SETUP: Skipped by the candidate during /setup - no self-assessment provided. -->
+<!-- Re-run `/setup --section behavioral` (or ask the user directly) if this becomes useful later. -->
 <!-- You can use results from PI, DISC, Myers-Briggs, StrengthsFinder, or a self-assessment -->
 
 ## Overview

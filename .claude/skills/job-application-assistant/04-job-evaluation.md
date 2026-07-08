@@ -16,9 +16,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Customer service, cash/credit/check transaction handling, front-desk/reception coordination, event planning and logistics
+**Moderate match areas:** Legal/investigative support (case report writing, surveillance documentation, Law & Society coursework), general administrative work, data entry, bilingual (English/Spanish) roles
+**Weak match areas:** Roles requiring a completed bachelor's degree or professional licensure, specialized technical/software skills, supervisory or people-management experience
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -30,9 +30,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Retail customer service, transaction/cash handling, front-desk and guest-facing coordination
+**Moderate:** Investigative/legal support, event coordination and logistics, administrative/data entry
+**Entry-level:** Open to any entry-level role that draws on the above - no formal degree completed yet
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -63,19 +63,14 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Open to any entry-level role that fits current background and skills (customer service, administrative, legal/investigative support, event coordination) - no single target role locked in yet
 
-**Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+**Motivation filter:** Not yet specified in detail - update via `/setup --section search` or `/setup --section experience` if priorities become clearer.
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Currently employed; job search is exploratory/supplemental, not urgent
+- **Flexibility**: Based in 02135 (Brighton, Boston); open to remote and hybrid; prefers a short local commute for onsite work
+- **Professional development**: Not yet specified
 
 ### 6. Salary Benchmark (Optional)
 
